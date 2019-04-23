@@ -1,0 +1,7 @@
+
+Penjelasan :
+- Program ini menerapkan teori Pewarisan dan access protected. 
+- Pada kelas Dagingers dan Vegetarian terhubung ke kelas induk Manusia dengan menggunakan "extends"
+- Pada main class output akan terpanggil dengan catatan bahwa seluruh induk dan anak kelas sudah terpanggil pada kelas utama.
+
+
